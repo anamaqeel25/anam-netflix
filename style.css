@@ -1,0 +1,83 @@
+body{
+    background-color: black;
+    color: white;
+}
+.bg-container{
+    background-image:linear-gradient(to top, rgba(0, 0, 0, 0.479),rgba(0, 0, 0, 0.932)),url("images/netflix-bg-img.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 100%;
+    height: 100vh;
+}
+ .netflixlogo{
+    width: 15%;
+}
+.btn-danger{
+    background-color:rgb(229,9,20) !important;
+}
+.bg-header{
+    margin: 100px 0px;
+}
+.bg-head-text{
+    font-size: 50px;
+    font-weight: 900;
+}
+.email-box{
+    width: 50vh;
+    padding: 15px 10px;
+}
+
+.btn-padding{
+    padding: 10px 30px;
+}
+.border-style{
+    width:100%;
+    height: 7px;
+    left: 0px;
+    bottom: 0px;
+    background-color:rgb(45,45,45); 
+}
+.box-marg-padd{
+    margin: 70px 30px ;
+}
+.img-container{
+    position: relative;
+}
+.img{
+    z-index: 1;
+}
+.heading-style{
+    font-size: 50px;
+    font-weight: 900 !important;
+    margin-top: 100px;
+}
+.section2-video{
+    position: absolute;
+    width: 69%;
+    top:80px;
+    right: 83px;
+    z-index: -1;
+}
+.gif-container{
+    background-color: black;
+    height:30%;
+    width:60%;
+    left:105px;
+    bottom:30px;
+}
+.download-text{
+    font-size: 13px;
+}
+ .gif-img{
+    width: 50%;
+ }
+.section4-video{
+    position: absolute;
+    width: 60%;
+    top:40px;
+    right: 110px;
+    z-index: -1;
+}
+
+    
